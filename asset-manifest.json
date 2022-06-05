@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ArmillaStore/static/css/main.8024f055.css",
-    "main.js": "/ArmillaStore/static/js/main.cf6bbea2.js",
+    "main.css": "/ArmillaStore/static/css/main.31cd14f2.css",
+    "main.js": "/ArmillaStore/static/js/main.7027655e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/ArmillaStore/static/js/787.c4e7f8f9.chunk.js",
     "static/media/visa.png": "/ArmillaStore/static/media/visa.d4fe171107a8b2435254.png",
     "static/media/logo.png": "/ArmillaStore/static/media/logo.cbbc3cf0a75464a2e58c.png",
     "static/media/Mastercard-Logo.png": "/ArmillaStore/static/media/Mastercard-Logo.67be1e2040e4d0884c09.png",
     "index.html": "/ArmillaStore/index.html",
-    "main.8024f055.css.map": "/ArmillaStore/static/css/main.8024f055.css.map",
-    "main.cf6bbea2.js.map": "/ArmillaStore/static/js/main.cf6bbea2.js.map",
+    "main.31cd14f2.css.map": "/ArmillaStore/static/css/main.31cd14f2.css.map",
+    "main.7027655e.js.map": "/ArmillaStore/static/js/main.7027655e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/ArmillaStore/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8024f055.css",
-    "static/js/main.cf6bbea2.js"
+    "static/css/main.31cd14f2.css",
+    "static/js/main.7027655e.js"
   ]
 }
